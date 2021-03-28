@@ -6,11 +6,7 @@
 package ABNFcore
  
 import (
-	// "fmt"
 	"strings"
-	// "unicode"
-	// "strconv"
-	// "unicode/utf8"
 )
 
 func RuneIsALPHA(c rune) bool {
